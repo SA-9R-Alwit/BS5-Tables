@@ -1,0 +1,18 @@
+body {
+	background-color: #a3b18a;
+	color: #3a5a40;
+}
+
+.container {
+	background-color: #588157;
+	color: #131313;
+}
+
+#FriendsDirectory {
+	font-family: "Lexend Exa",sans-serif;
+	padding: 15px;
+}
+
+tbody {
+	background-color: #dad7cd;
+}
